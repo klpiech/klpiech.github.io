@@ -1,0 +1,42 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    font-size: 18px;
+    line-height: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 16px, 0, 8px;
+}
+
+h1 {
+    font-size: 2.082rem;
+}
+
+h2 {
+    font-size: 1.842rem;
+}
+
+
+h3 {
+    font-size: 1.63rem;
+}
+
+h4 {
+    font-size: 1.443rem;
+}
+
+h5 {
+    font-size: 1.277rem;
+}
+
+h6 {
+    font-size: 1.13rem;
+}
+
+p {
+    font-size: 0.885rem;
+}
