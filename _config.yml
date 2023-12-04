@@ -1,3 +1,6 @@
 theme: minima
 title: Karen Piech
-description: A showcase for my technical writing portfolio
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/klpiech" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/karen-piech-03034a7" }
