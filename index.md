@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: base
+layout: page
 ---
 
 A site to showcase technical writing experience.
