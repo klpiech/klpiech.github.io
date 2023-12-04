@@ -1,6 +1,6 @@
 ---
 title: Resume
-layout: base
+layout: page
 ---
 
 # Summary
