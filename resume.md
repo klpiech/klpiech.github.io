@@ -18,7 +18,7 @@ Impassioned technical writer with over 20 years of experience who enjoys craftin
 
 # Work experience
 
-**Senior Technical Writer, Magnet Forensics**
+## Senior Technical Writer, Magnet Forensics
 
 2022/04 - 2023/06, Waterloo, ON, remote
 
@@ -28,7 +28,7 @@ Impassioned technical writer with over 20 years of experience who enjoys craftin
 - Reviewed UX strings for the front end and installer prompts.
 - Helped team members with Flare, CSS, and Git questions.
 
-**Senior Technical Writer, Canon Medical Informatics**
+## Senior Technical Writer, Canon Medical Informatics
 
 2018/04 - 2022/04, Waterloo, ON, hybrid and remote 
 
@@ -37,7 +37,7 @@ Impassioned technical writer with over 20 years of experience who enjoys craftin
 - Suggested using mock-ups, saving total development time.
 - Noticed missing function updates while documenting features.
 
-**Technical Writer, NCR**
+## Technical Writer, NCR
 
 2014/09 - 2018/03, Waterloo, ON, hybrid
 
