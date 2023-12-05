@@ -2,6 +2,11 @@ theme: minima
 
 title: Karen Piech
 
+header_pages:
+    - index.md
+    - portfolio.md
+    - resume.md
+
 author: "@2023 Karen Piech"
 description: "A technical writing showcase"
 
