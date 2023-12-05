@@ -1,15 +1,9 @@
-# theme: minima
+theme: minima
 
 title: Karen Piech
 
 # author:
     #name: GitHub user klpiech
-    
-remote_theme: jekyll/minima
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
   
 minima:
   social_links:
