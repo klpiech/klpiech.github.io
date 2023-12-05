@@ -26,3 +26,9 @@ This site uses the following:
 - [Jekyll](https://github.com/jekyll)
 - [Minima theme](https://github.com/jekyll/minima)
 - Markdown
+
+<style>
+  .footer {
+      display: none;
+  }
+</style>
