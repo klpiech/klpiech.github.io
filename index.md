@@ -1,6 +1,6 @@
 ---
-title: home
-layout: page
+title: Home
+layout: home
 ---
 
 # Hello!
