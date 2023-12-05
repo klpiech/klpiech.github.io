@@ -2,7 +2,11 @@ theme: minima
 
 title: Karen Piech
 
+author: "@2023 Karen Piech"
+description: false
+
 github_username: klpiech
+linkedin_username: karen-piech-03034a7
 
 # author:
     #name: GitHub user klpiech
