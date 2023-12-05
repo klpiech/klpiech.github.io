@@ -46,3 +46,9 @@ Impassioned technical writer with over 20 years of experience who enjoys craftin
 - Created a new installation guide for deploying the system on a Kubernetes-managed cluster of Docker-containerized applications.
 - Created API guide from captured messages.
 - Occasionally uncovered developer misses while reviewing commits.
+
+- <style>
+  .footer {
+    display: none;
+  }
+</style>
