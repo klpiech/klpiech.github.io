@@ -47,6 +47,7 @@ Impassioned technical writer with over 20 years of experience who enjoys craftin
 - Created API guide from captured messages.
 - Occasionally uncovered developer misses while reviewing commits.
 
+
 <style>
   .footer {
     display: none;
