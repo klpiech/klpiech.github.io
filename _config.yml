@@ -3,15 +3,7 @@ theme: minima
 title: Karen Piech
 
 author: "@2023 Karen Piech"
-description: false
+description: "A technical writing showcase"
 
 github_username: klpiech
-linkedin_username: karen-piech-03034a7
-
-# author:
-    #name: GitHub user klpiech
-  
-#minima:
-  #social_links:
-   # - { platform: github,  user_url: "https://github.com/klpiech" }
-    #- { platform: linkedin, user_url: "https://www.linkedin.com/in/karen-piech-03034a7" }
+# linkedin_username: karen-piech-03034a7
