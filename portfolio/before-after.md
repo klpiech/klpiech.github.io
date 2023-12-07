@@ -31,10 +31,13 @@ directly on the image.
 I changed the callout color to red so that it would be easily seen on the image.
 
 **Original callout image          Updated callout image**
+
 ![callouts before](callouts-before.png) ![callouts after](callouts-after.png)
 
 **Original callout image**
+
 ![callouts before](callouts-before.png)
 
 **Updated callout image**
+
 ![callouts before](callouts-before.png) ![callouts after](callouts-after.png)
