@@ -47,3 +47,48 @@ Impassioned technical writer with over 20 years of experience who enjoys craftin
 - Created a new installation guide for deploying the system on a Kubernetes-managed cluster of Docker-containerized applications.
 - Created API guide from captured messages.
 - Occasionally uncovered developer misses while reviewing commits.
+
+**Contract Technical Writer, Christie Digital Systems**
+
+2013/12 - 2014/05, Kitchener, ON
+
+- Documented new laser projection system.
+- In five montsh, created four 80–100 page installation/user manuals and wrote  80 pages of a service manual.
+- Ran document review meetings to get engineers’ feedback, receiving compliments for running efficient meetings.
+- Actively participated in design and serviceability review meetings.
+
+**Contract Technical Writer, Agfa HealthCare**
+
+2006/10 - 2008/06, Waterloo, ON 
+
+- Using an XML/DITA-based Content Management System (CMS), created and updated documentation for hospital radiology solutions.
+- From code, specs, and SME interviews, wrote 45-page API guide under 2 weeks.
+- Member of international teams to create templates, validate terminology, and manage migration to DITA-based CMS.
+
+**Technical Writer, aruna.ca Inc.**
+
+2001/01 - 2005/08, Waterloo, ON 
+
+- Produced manuals, online help, web content, and marketing materials for FastPath, a database integration system.
+- Created new online embedded help system concept where the displayed content changes to match the user’s current task. A consultant suggested that we obtain a patent for the design.
+- Learned SQL-92 queries and data types from the standard specification.
+- Designed and developed website (hand-coded HTML and CSS), then wrote copy.
+
+**Technical Writer, Waterloo Maple (now Maplesoft)**
+
+1997/01 - 2000/12, Waterloo, ON 
+
+- Designed install guide used by CRC Press in final product.
+- Awarded a performance bonus for delivering documentation beyond the scope defined for the project after adding online help.
+- After the website project team missed several deadlines, was assigned to coordinate in-house and consultant efforts, and met my deadline.
+- Led documentation team.
+
+# Education
+
+BMath, University of Waterloo (Graduated)
+
+# Continuing Ed
+
+- Python Data Structures, Coursera, ![view certificate](https://www.coursera.org/account/accomplishments/certificate/UPAGT3L3TK4N)
+- Using Python to Access Web Data, Coursera, ![view certificate](https://www.coursera.org/account/accomplishments/certificate/3RDUMZZH4PEC)
+- Using Databases with Python, Coursera, ![view certificate](https://www.coursera.org/account/accomplishments/certificate/M3VXBE5MXCCY)
