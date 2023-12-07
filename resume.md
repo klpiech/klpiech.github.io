@@ -89,6 +89,6 @@ BMath, University of Waterloo (Graduated)
 
 # Continuing Ed
 
-- Python Data Structures, Coursera, ![view certificate](https://www.coursera.org/account/accomplishments/certificate/UPAGT3L3TK4N)
-- Using Python to Access Web Data, Coursera, ![view certificate](https://www.coursera.org/account/accomplishments/certificate/3RDUMZZH4PEC)
-- Using Databases with Python, Coursera, ![view certificate](https://www.coursera.org/account/accomplishments/certificate/M3VXBE5MXCCY)
+- Python Data Structures, Coursera, [view certificate](https://www.coursera.org/account/accomplishments/certificate/UPAGT3L3TK4N)
+- Using Python to Access Web Data, Coursera, [view certificate](https://www.coursera.org/account/accomplishments/certificate/3RDUMZZH4PEC)
+- Using Databases with Python, Coursera, [view certificate](https://www.coursera.org/account/accomplishments/certificate/M3VXBE5MXCCY)
