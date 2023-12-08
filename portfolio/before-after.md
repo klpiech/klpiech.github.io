@@ -37,4 +37,4 @@ I changed the callout color to red so that it would be easily seen on the image.
 
 ![callouts after](callouts-after.png)
 
-Note that I included very small images to purposefully make the details indistict.
+Note that I included very small images to purposefully make the details indistinct.
