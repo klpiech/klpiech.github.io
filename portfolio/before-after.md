@@ -24,8 +24,7 @@ sections:
 - Study areas: the location on the screen to display images.
 - Utilities: the menus and buttons that activate utilities.
 
-I liked the asthetic of the original gray callouts, which were placed outside of the image with lines to connect to the associated object. 
-Although I wondered if they might make users work a bit to identify what the callout is pointing to. 
+Although I liked the asthetic of the original gray callouts, which were placed outside of the image with lines to connect to the associated object, I wondered if they might make the reader work a bit to identify what the callout is pointing to. 
 After consulting with UX developers on other teams in the company, I moved the callout numbers to be 
 directly on the image. 
 I changed the callout color to red so that it would be easily seen on the image.
