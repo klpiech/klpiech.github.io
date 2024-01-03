@@ -17,4 +17,4 @@ When the viewport is locked, the lock icon ![scout locked icon](icon_scout_lock.
 ![viewport locked](image_vp_locked.png)<br/><br/>
 3. In a viewport that displays the scout image, click and drag the scout line ![two](icon_2.png) to scroll through the images on the locked viewport (and any linked viewports). <br/>
 Note there are two scout images for the locked viewport shown.
-4. To remove the lock, click ![scout locked icon](icon_scout_lock.png) in the viewport.
+4. To remove the lock, click ![scout locked icon](icon_scout_lock.png) in the viewport (![one](icon_1.png)) .
