@@ -19,4 +19,4 @@ Data flows through the Cato solution as follows:
 3. If SENTINL identifies an actionable situation, it notifies the appropriate user of the details of the condition, allowing the user to take action promptly.
 4. Administrative users can also log into the Cato Server from a browser, authenticating through the NGINX application, to view system health shown in Kibana.
 
-**[< Previous](https://klpiech.github.io/proc/)** 
+**[`< Previous`](https://klpiech.github.io/proc/)** 
