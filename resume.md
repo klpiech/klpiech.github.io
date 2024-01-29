@@ -9,11 +9,13 @@ Impassioned technical writer with over 20 years of experience who enjoys craftin
 
 # Skills
 
-**Applications:** `MadCap Flare` `Author-it` `Jira` `Git` `Azure DevOps` `Bitbucket` `Illustrator` `MS Visio` `OmniGraffle` 
+**Applications:** `MadCap Flare` `Author-it` `Jira` `Git` `Azure DevOps` `Bitbucket` `GitHub` `Confluence` `Illustrator` `MS Visio` `OmniGraffle` 
 
 **Processes:** `agile developement` `docs as code`
 
-**Standards:** `HTML` `XML` `CSS` `DITA`
+**Standards:** `HTML` `XML` `CSS` `DITA` `Markdown`
+
+**Operating systems:** `Linux` `MacOS` `Windows`
 
 **Soft skills:** `communication` `time management` `critical thinking` `research` `teamwork`
 
@@ -21,7 +23,7 @@ Impassioned technical writer with over 20 years of experience who enjoys craftin
 
 **Senior Technical Writer, Magnet Forensics**
 
-2022/04 - 2023/06, Waterloo, ON, remote
+April 2022 - June 2023, Waterloo, ON, remote
 
 - Created and maintained documentation for Magnet REVIEW, a collection of Kubernetes-managed Docker-containerized services deployed to both cloud and on-premises environments.
 - Researched and experimented with the Kubernetes kubectl command-line command to document system monitoring. The environment set-up topic answered every question a new team member had.
@@ -31,7 +33,7 @@ Impassioned technical writer with over 20 years of experience who enjoys craftin
 
 **Senior Technical Writer, Canon Medical Informatics**
 
-2018/04 - 2022/04, Waterloo, ON, hybrid and remote 
+April 2018 - April 2022, Waterloo, ON, hybrid and remote 
 
 - Documented an application that displays medical images for diagnostic purposes, working remotely with a team in Denmark.
 - Created examples while documenting the JavaScript API.
@@ -40,7 +42,7 @@ Impassioned technical writer with over 20 years of experience who enjoys craftin
 
 **Technical Writer, NCR**
 
-2014/09 - 2018/03, Waterloo, ON, hybrid
+September 2014 - March 2018, Waterloo, ON, hybrid
 
 - Documented a complex client-server, services-integrated financial payment system for a variety of customers worldwide.
 - Maintained 7000-page documentation suite at a peak rate of 100 new pages in a month to meet challenging deadlines.
@@ -50,7 +52,7 @@ Impassioned technical writer with over 20 years of experience who enjoys craftin
 
 **Contract Technical Writer, Christie Digital Systems**
 
-2013/12 - 2014/05, Kitchener, ON
+December 2013 - May 2014, Kitchener, ON
 
 - Documented new laser projection system.
 - In five montsh, created four 80–100 page installation/user manuals and wrote  80 pages of a service manual.
@@ -59,7 +61,7 @@ Impassioned technical writer with over 20 years of experience who enjoys craftin
 
 **Contract Technical Writer, Agfa HealthCare**
 
-2006/10 - 2008/06, Waterloo, ON 
+October 2006 - June 2008, Waterloo, ON 
 
 - Using an XML/DITA-based Content Management System (CMS), created and updated documentation for hospital radiology solutions.
 - From code, specs, and SME interviews, wrote 45-page API guide under 2 weeks.
@@ -67,7 +69,7 @@ Impassioned technical writer with over 20 years of experience who enjoys craftin
 
 **Technical Writer, aruna.ca Inc.**
 
-2001/01 - 2005/08, Waterloo, ON 
+January 2001 - August 2005, Waterloo, ON 
 
 - Produced manuals, online help, web content, and marketing materials for FastPath, a database integration system.
 - Created new online embedded help system concept where the displayed content changes to match the user’s current task. A consultant suggested that we obtain a patent for the design.
@@ -76,7 +78,7 @@ Impassioned technical writer with over 20 years of experience who enjoys craftin
 
 **Technical Writer, Waterloo Maple (now Maplesoft)**
 
-1997/01 - 2000/12, Waterloo, ON 
+January 1997 - December 2000, Waterloo, ON 
 
 - Designed install guide used by CRC Press in final product.
 - Awarded a performance bonus for delivering documentation beyond the scope defined for the project after adding online help.
