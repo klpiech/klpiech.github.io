@@ -19,4 +19,4 @@ When the viewport is locked, the lock icon ![scout locked icon](icon_scout_lock.
 Note there are two scout images for the locked viewport shown.
 4. To remove the lock, click ![scout locked icon](icon_scout_lock.png) in the viewport (![one](icon_1.png)) .
 
-**[< Previous](https://klpiech.github.io/b-a)** | **[Next >](https://klpiech.github.io/diagram/)**
+**[`< Previous`](https://klpiech.github.io/b-a)** &nbsp;&nbsp;&nbsp; **[`Next >`](https://klpiech.github.io/diagram/)**
