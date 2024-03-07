@@ -5,11 +5,11 @@ permalink: /resume/
 
 # Summary
 
-Impassioned technical writer with over 20 years of experience who enjoys crafting direct explanations of software and hardware systems for all audiences. Builds collaborative relationships with stakeholders and independently identifies, prioritizes, and completes tasks to meet deadlines.
+With over 20 years of experience, I am an impassioned technical writer who enjoys crafting direct explanations of software and hardware systems for all audiences. I am curious, analytical, and undaunted by unfamiliar technology. I build collaborative relationships with stakeholders and independently identify, prioritize, and complete tasks to meet deadlines. 
 
 # Skills
 
-**Applications:** `MadCap Flare` `Author-it` `Jira` `Git` `Azure DevOps` `Bitbucket` `GitHub` `Confluence` `Illustrator` `MS Visio` `OmniGraffle` 
+**Applications:** `MadCap Flare` `Author-it` `Framemaker` `Jira` `Git` `Azure DevOps` `Bitbucket` `GitHub` `Confluence` `Illustrator` `MS Visio` `OmniGraffle` `Figma`
 
 **Processes:** `agile developement` `docs as code`
 
@@ -17,7 +17,9 @@ Impassioned technical writer with over 20 years of experience who enjoys craftin
 
 **Operating systems:** `Linux` `MacOS` `Windows`
 
-**Soft skills:** `communication` `time management` `critical thinking` `research` `teamwork`
+**Cloud technologies:** `AWS` `Kubernetes` `kubectl` `Google docs`
+
+**Soft skills:** `critical thinking` `research` `teamwork` `time management` `communication`
 
 # Work experience
 
@@ -27,6 +29,7 @@ April 2022 - June 2023, Waterloo, ON, remote
 
 - Created and maintained documentation for Magnet REVIEW, a collection of Kubernetes-managed Docker-containerized services deployed to both cloud and on-premises environments.
 - Researched and experimented with the Kubernetes kubectl command-line command to document system monitoring. The environment set-up topic answered every question a new team member had.
+- Described using Grafana Loki to examine solution log files.
 - Created architecture and dataflow diagrams.
 - Reviewed UX strings for the front end and installer prompts.
 - Helped team members with Flare, CSS, and Git questions.
